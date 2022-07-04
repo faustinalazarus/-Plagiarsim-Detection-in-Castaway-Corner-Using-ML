@@ -1,1 +1,7 @@
-# -Plagiarsim-Detection-in-Castaway-Corner-Using-ML
+![image](https://user-images.githubusercontent.com/82258265/177192392-54aafc9f-6c51-4aed-992a-921d4859d097.png)
+![image](https://user-images.githubusercontent.com/82258265/177192407-f223fca3-6f54-4b76-9529-cd5206aa1498.png)
+![image](https://user-images.githubusercontent.com/82258265/177192427-cb9d8fb7-2115-4455-83e2-eb2e7160c636.png)
+![image](https://user-images.githubusercontent.com/82258265/177192442-de8ce145-e795-4cf3-9f70-3342b87f16ec.png)
+![image](https://user-images.githubusercontent.com/82258265/177192469-0e731d16-877d-4ffa-adcd-39c6bca5dea6.png)
+![image](https://user-images.githubusercontent.com/82258265/177192487-71d83642-ad70-4119-9d44-4c0347a2e8e4.png)
+![image](https://user-images.githubusercontent.com/82258265/177192502-5749e4ad-ee1a-4b52-8b09-e8a4f6d4056b.png)
